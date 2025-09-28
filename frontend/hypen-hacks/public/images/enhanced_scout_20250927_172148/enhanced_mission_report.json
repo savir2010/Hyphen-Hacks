@@ -1,0 +1,151 @@
+{
+  "mission_summary": {
+    "total_photos": 9,
+    "fire_detections": 0,
+    "smoke_detections": 0,
+    "total_objects_detected": 10,
+    "high_confidence_fire": 0,
+    "objects_by_type": {
+      "person": 5,
+      "laptop": 3,
+      "cell phone": 2
+    },
+    "fire_locations": [],
+    "high_activity_locations": [
+      "start_center",
+      "side_1_forward",
+      "side_4_after_turn"
+    ],
+    "mission_time": "2025-09-27T17:24:01.725487"
+  },
+  "detailed_results": [
+    {
+      "position": "start_center",
+      "timestamp": "172209",
+      "filename": "enhanced_00_start_center_172209.jpg",
+      "detections": {
+        "fire": 0,
+        "smoke": 0,
+        "general_objects": {
+          "person": 2,
+          "laptop": 1
+        },
+        "total_objects": 3,
+        "high_confidence_fire": 0,
+        "high_confidence_smoke": 0
+      }
+    },
+    {
+      "position": "side_1_forward",
+      "timestamp": "172239",
+      "filename": "enhanced_01_side_1_forward_172239.jpg",
+      "detections": {
+        "fire": 0,
+        "smoke": 0,
+        "general_objects": {
+          "person": 2,
+          "laptop": 1,
+          "cell phone": 1
+        },
+        "total_objects": 4,
+        "high_confidence_fire": 0,
+        "high_confidence_smoke": 0
+      }
+    },
+    {
+      "position": "side_1_after_turn",
+      "timestamp": "172250",
+      "filename": "enhanced_02_side_1_after_turn_172250.jpg",
+      "detections": {
+        "fire": 0,
+        "smoke": 0,
+        "general_objects": {},
+        "total_objects": 0,
+        "high_confidence_fire": 0,
+        "high_confidence_smoke": 0
+      }
+    },
+    {
+      "position": "side_2_forward",
+      "timestamp": "172301",
+      "filename": "enhanced_03_side_2_forward_172301.jpg",
+      "detections": {
+        "fire": 0,
+        "smoke": 0,
+        "general_objects": {},
+        "total_objects": 0,
+        "high_confidence_fire": 0,
+        "high_confidence_smoke": 0
+      }
+    },
+    {
+      "position": "side_2_after_turn",
+      "timestamp": "172312",
+      "filename": "enhanced_04_side_2_after_turn_172312.jpg",
+      "detections": {
+        "fire": 0,
+        "smoke": 0,
+        "general_objects": {},
+        "total_objects": 0,
+        "high_confidence_fire": 0,
+        "high_confidence_smoke": 0
+      }
+    },
+    {
+      "position": "side_3_forward",
+      "timestamp": "172323",
+      "filename": "enhanced_05_side_3_forward_172323.jpg",
+      "detections": {
+        "fire": 0,
+        "smoke": 0,
+        "general_objects": {},
+        "total_objects": 0,
+        "high_confidence_fire": 0,
+        "high_confidence_smoke": 0
+      }
+    },
+    {
+      "position": "side_3_after_turn",
+      "timestamp": "172333",
+      "filename": "enhanced_06_side_3_after_turn_172333.jpg",
+      "detections": {
+        "fire": 0,
+        "smoke": 0,
+        "general_objects": {},
+        "total_objects": 0,
+        "high_confidence_fire": 0,
+        "high_confidence_smoke": 0
+      }
+    },
+    {
+      "position": "side_4_forward",
+      "timestamp": "172344",
+      "filename": "enhanced_07_side_4_forward_172344.jpg",
+      "detections": {
+        "fire": 0,
+        "smoke": 0,
+        "general_objects": {},
+        "total_objects": 0,
+        "high_confidence_fire": 0,
+        "high_confidence_smoke": 0
+      }
+    },
+    {
+      "position": "side_4_after_turn",
+      "timestamp": "172356",
+      "filename": "enhanced_08_side_4_after_turn_172356.jpg",
+      "detections": {
+        "fire": 0,
+        "smoke": 0,
+        "general_objects": {
+          "person": 1,
+          "laptop": 1,
+          "cell phone": 1
+        },
+        "total_objects": 3,
+        "high_confidence_fire": 0,
+        "high_confidence_smoke": 0
+      }
+    }
+  ]
+}
