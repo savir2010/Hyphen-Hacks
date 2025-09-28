@@ -1,0 +1,171 @@
+{
+  "mission_summary": {
+    "total_photos": 10,
+    "fire_detections": 0,
+    "smoke_detections": 0,
+    "total_objects_detected": 15,
+    "high_confidence_fire": 0,
+    "objects_by_type": {
+      "chair": 4,
+      "person": 6,
+      "laptop": 2,
+      "tv": 1,
+      "refrigerator": 1,
+      "microwave": 1
+    },
+    "fire_locations": [],
+    "high_activity_locations": [
+      "start_center",
+      "side_4_complete_no_turn"
+    ],
+    "mission_time": "2025-09-27T18:32:16.304073"
+  },
+  "detailed_results": [
+    {
+      "position": "start_center",
+      "timestamp": "182903",
+      "filename": "enhanced_00_start_center_182903.jpg",
+      "detections": {
+        "fire": 0,
+        "smoke": 0,
+        "general_objects": {
+          "chair": 1,
+          "person": 2,
+          "laptop": 2
+        },
+        "total_objects": 5,
+        "high_confidence_fire": 0,
+        "high_confidence_smoke": 0
+      }
+    },
+    {
+      "position": "end_of_side_1",
+      "timestamp": "182920",
+      "filename": "enhanced_01_end_of_side_1_182920.jpg",
+      "detections": {
+        "fire": 0,
+        "smoke": 0,
+        "general_objects": {
+          "person": 2
+        },
+        "total_objects": 2,
+        "high_confidence_fire": 0,
+        "high_confidence_smoke": 0
+      }
+    },
+    {
+      "position": "side_1_complete",
+      "timestamp": "182931",
+      "filename": "enhanced_02_side_1_complete_182931.jpg",
+      "detections": {
+        "fire": 0,
+        "smoke": 0,
+        "general_objects": {},
+        "total_objects": 0,
+        "high_confidence_fire": 0,
+        "high_confidence_smoke": 0
+      }
+    },
+    {
+      "position": "end_of_side_2",
+      "timestamp": "182946",
+      "filename": "enhanced_03_end_of_side_2_182946.jpg",
+      "detections": {
+        "fire": 0,
+        "smoke": 0,
+        "general_objects": {
+          "chair": 1
+        },
+        "total_objects": 1,
+        "high_confidence_fire": 0,
+        "high_confidence_smoke": 0
+      }
+    },
+    {
+      "position": "side_2_complete",
+      "timestamp": "182958",
+      "filename": "enhanced_04_side_2_complete_182958.jpg",
+      "detections": {
+        "fire": 0,
+        "smoke": 0,
+        "general_objects": {
+          "tv": 1,
+          "refrigerator": 1
+        },
+        "total_objects": 2,
+        "high_confidence_fire": 0,
+        "high_confidence_smoke": 0
+      }
+    },
+    {
+      "position": "end_of_side_3",
+      "timestamp": "183013",
+      "filename": "enhanced_05_end_of_side_3_183013.jpg",
+      "detections": {
+        "fire": 0,
+        "smoke": 0,
+        "general_objects": {},
+        "total_objects": 0,
+        "high_confidence_fire": 0,
+        "high_confidence_smoke": 0
+      }
+    },
+    {
+      "position": "side_3_complete",
+      "timestamp": "183024",
+      "filename": "enhanced_06_side_3_complete_183024.jpg",
+      "detections": {
+        "fire": 0,
+        "smoke": 0,
+        "general_objects": {},
+        "total_objects": 0,
+        "high_confidence_fire": 0,
+        "high_confidence_smoke": 0
+      }
+    },
+    {
+      "position": "end_of_side_4",
+      "timestamp": "183040",
+      "filename": "enhanced_07_end_of_side_4_183040.jpg",
+      "detections": {
+        "fire": 0,
+        "smoke": 0,
+        "general_objects": {
+          "microwave": 1
+        },
+        "total_objects": 1,
+        "high_confidence_fire": 0,
+        "high_confidence_smoke": 0
+      }
+    },
+    {
+      "position": "side_4_complete_no_turn",
+      "timestamp": "183213",
+      "filename": "enhanced_08_side_4_complete_no_turn_183213.jpg",
+      "detections": {
+        "fire": 0,
+        "smoke": 0,
+        "general_objects": {
+          "person": 2,
+          "chair": 2
+        },
+        "total_objects": 4,
+        "high_confidence_fire": 0,
+        "high_confidence_smoke": 0
+      }
+    },
+    {
+      "position": "square_complete",
+      "timestamp": "183215",
+      "filename": "enhanced_09_square_complete_183215.jpg",
+      "detections": {
+        "fire": 0,
+        "smoke": 0,
+        "general_objects": {},
+        "total_objects": 0,
+        "high_confidence_fire": 0,
+        "high_confidence_smoke": 0
+      }
+    }
+  ]
+}

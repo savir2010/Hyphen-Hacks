@@ -1,0 +1,6 @@
+names:
+- smoke
+- fire
+nc: 2
+train: /Users/savirdillikar/aws-hack/drone-testing/dfire_balanced_results/train/images
+val: /Users/savirdillikar/aws-hack/drone-testing/dfire_balanced_results/val/images
