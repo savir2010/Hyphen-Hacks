@@ -1,0 +1,64 @@
+{
+  "mission_summary": {
+    "total_photos": 3,
+    "fire_detections": 0,
+    "smoke_detections": 0,
+    "total_objects_detected": 4,
+    "high_confidence_fire": 0,
+    "objects_by_type": {
+      "chair": 1,
+      "person": 3
+    },
+    "fire_locations": [],
+    "high_activity_locations": [
+      "start_center"
+    ],
+    "mission_time": "2025-09-27T18:27:28.677775"
+  },
+  "detailed_results": [
+    {
+      "position": "start_center",
+      "timestamp": "182648",
+      "filename": "enhanced_00_start_center_182648.jpg",
+      "detections": {
+        "fire": 0,
+        "smoke": 0,
+        "general_objects": {
+          "chair": 1,
+          "person": 2
+        },
+        "total_objects": 3,
+        "high_confidence_fire": 0,
+        "high_confidence_smoke": 0
+      }
+    },
+    {
+      "position": "end_of_side_1",
+      "timestamp": "182705",
+      "filename": "enhanced_01_end_of_side_1_182705.jpg",
+      "detections": {
+        "fire": 0,
+        "smoke": 0,
+        "general_objects": {
+          "person": 1
+        },
+        "total_objects": 1,
+        "high_confidence_fire": 0,
+        "high_confidence_smoke": 0
+      }
+    },
+    {
+      "position": "side_1_complete",
+      "timestamp": "182716",
+      "filename": "enhanced_02_side_1_complete_182716.jpg",
+      "detections": {
+        "fire": 0,
+        "smoke": 0,
+        "general_objects": {},
+        "total_objects": 0,
+        "high_confidence_fire": 0,
+        "high_confidence_smoke": 0
+      }
+    }
+  ]
+}

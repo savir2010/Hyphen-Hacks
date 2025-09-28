@@ -1,0 +1,9 @@
+{
+  "detection_summary": {
+    "total_bicycles_detected": 0,
+    "total_bowls_detected": 0,
+    "confidence_threshold": 0.7,
+    "frames_processed": 0,
+    "flight_completed": true
+  }
+}
